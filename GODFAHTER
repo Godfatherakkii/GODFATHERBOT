@@ -3,10 +3,10 @@
 _get_zlink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "pro" ]]
+    if [[ $UPSTREAM_REPO == "godfather" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0lUUy1MRUdFTkRCT1QvTEVHRU5EQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
-    elif [[ $UPSTREAM_REPO == "multi" ]]
+    elif [[ $UPSTREAM_REPO == "powerfull" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1BSS9MRUdFTkRVU0VSQk9UL2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $UPSTREAM_REPO =~ $regex ]]
@@ -26,10 +26,10 @@ _get_repolink () {
     local regex
     local rlink
     regex='(https?)://github.com/.+/.+'
-    if [[ $UPSTREAM_REPO == "pro" ]]
+    if [[ $UPSTREAM_REPO == "godfahter" ]]
     then
         rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL0lUUy1MRUdFTkRCT1QvTEVHRU5EQk9U" | base64 -d`
-    elif [[ $UPSTREAM_REPO == "multi" ]]
+    elif [[ $UPSTREAM_REPO == "powerfull" ]]
     then
         rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1BSS9MRUdFTkRVU0VSQk9U" | base64 -d`
     elif [[ $UPSTREAM_REPO =~ $regex ]]
@@ -46,10 +46,10 @@ _run_python_code() {
     python3${pVer%.*} -c "$1"
 }
 
-_run_legendpackgit() {
+_run_godfatherpackgit() {
     $(_run_python_code 'from git import Repo
 import sys
-OFFICIAL_UPSTREAM_REPO = "https://github.com/LEGEND-AI/LEGENDBOT"
+OFFICIAL_UPSTREAM_REPO = "https://github.com/godfahterakkii/GODFAHTERBOT"
 ACTIVE_BRANCH_NAME = "master"
 repo = Repo.init()
 origin = repo.create_remote("temponame", OFFICIAL_UPSTREAM_REPO)
@@ -73,22 +73,22 @@ repo.heads[ACTIVE_BRANCH_NAME].checkout(True) ')
 
 _start_bot () {
     local zippath
-    zippath="LEGENDBOT.zip"
+    zippath="GODFAHTERBOT.zip"
     echo "  Downloading source code ..."
     wget -q $(_get_zlink) -O "$zippath"
     echo "  Unpacking Data ..."
-    LEGENDPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    GODFATHERPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
     rm -rf "$zippath"
-    _run_legendpackgit
-    cd $LEGENDPATH
-    _run_legendgit
+    _run_godfatherpackgit
+    cd $GODFATHERPATH
+    _run_godfahtergit
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     chmod -R 755 bin
-    echo "    Starting LegendUserBot    "
-    python3 -m Legendbot
+    echo "    Starting GodFatherUserBot    "
+    python3 -m GodFather
 }
 
 _start_bot
