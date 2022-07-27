@@ -1,14 +1,14 @@
 {
-  "name": "Lêɠêɳ̃dẞο†",
-  "description": "LegendBot is one of the best userbot on telegram based on telethon & python",
-  "logo": "https://telegra.ph/file/ac9bd7bcdac984dd407b2.jpg",
+  "name": "༒ᴳᵒᵈFαтнєяBoT༒",
+  "description": "༒ᴳᵒᵈFαтнєяBot༒ is one of the best userbot on telegram based on telethon & python",
+  "logo": "https://te.legra.ph/file/53a8821a9d846490cf582.jpg",
   "keywords": [
     "plugin",
-    "legendbot",
+    "godfahter",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ITS-LEGENDBOT/LEGENDBOT",
+  "repository": "https://github.com/godfahterakkii/GODFATHERBOT",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -28,8 +28,8 @@
       "description": "Get this value from my.telegram.org! Please do not steal",
       "value": ""
     },
-    "LEGEND_STRING": {
-      "description": "Get this value by running https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py",
+    "GODFAHTER_STRING": {
+      "description": "Get this value by running https://replit.com/@godfahterakkii/GODFAHTERBOT#main.py",
       "value": ""
     },
     "BOT_TOKEN": {
@@ -53,7 +53,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "U Can Use This To Set Own Commands To Know More About It. ask in Group",
-      "value": "pro",
+      "value": "godfather",
       "required": false
     },
     "EXTRA_REPO": {
