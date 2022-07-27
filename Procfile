@@ -1,1 +1,1 @@
- worker: bash LEGEND
+ worker: bash GODFATHER
