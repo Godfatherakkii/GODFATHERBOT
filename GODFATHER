@@ -28,15 +28,15 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $UPSTREAM_REPO == "godfahter" ]]
     then
-        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL2dvZGZhdGhlcmFra2lpL0dPREZBVEhFUlVTRVJCT1Q=" | base64 -d`
+        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9HT0RGQVRIRVJCT1Q=" | base64 -d`
     elif [[ $UPSTREAM_REPO == "powerfull" ]]
     then
-        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL2dvZGZhdGhlcmFra2lpL0dPREZBVEhFUlVTRVJCT1Q=" | base64 -d`
+        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9HT0RGQVRIRVJCT1Q=" | base64 -d`
     elif [[ $UPSTREAM_REPO =~ $regex ]]
     then
         rlink=`echo "${UPSTREAM_REPO}"`
     else
-        rlink=`echo "aHR0cHM6Ly9naXRodWIuY29tL2dvZGZhdGhlcmFra2lpL0dPREZBVEhFUlVTRVJCT1Q=" | base64 -d`
+        rlink=`echo "aaHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9HT0RGQVRIRVJCT1Q=" | base64 -d`
     fi
     echo "$rlink"
 }
@@ -73,7 +73,7 @@ repo.heads[ACTIVE_BRANCH_NAME].checkout(True) ')
 
 _start_bot () {
     local zippath
-    zippath="GODFATHERUSERBOT.zip"
+    zippath="GODFATHERBOT.zip"
     echo "  Downloading source code ..."
     wget -q $(_get_zlink) -O "$zippath"
     echo "  Unpacking Data ..."
