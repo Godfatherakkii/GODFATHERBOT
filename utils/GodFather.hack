@@ -1,0 +1,9 @@
+godfather==l
+userbot-v1.0
+utils.py
+utils.hack.plugins
+legend-lx
+thanosuser.legend-lx.godfatherakkii
+await:{e}
+        ()try
+]'GODFATHER:PLUGINS/ROOT/DARKWEB:"GODFATHER-AKKII
