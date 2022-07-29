@@ -155,4 +155,4 @@
 </details>
 
 
-> Made with 💕 by [AKKI GOD FATHER](htpps://t.me/Godfatherakki).    
+> Made with 💕 by [GODFATHERAKKI](htpps://t.me/Godfatherakki).    
