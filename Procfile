@@ -1,1 +1,1 @@
- worker: bash GODFATHER
+worker: bash HELL

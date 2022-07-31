@@ -1,158 +1,157 @@
-[![GODFATHERBOT](https://te.legra.ph/file/d59e3d187b71344f8c437.jpg)](https://github.com/Godfatherakkii/Godfather-addons)
-
-<h2 align="center"><b> ⠐💥💫Personal ★GOD FATHER USERBOT 】Information💫💥 ⠐ </b></h2>
-
-<p align='Middle'><a href='https://t.me/'><img src='https://te.legra.ph/file/8b2ffc18117e911a30f56.jpg' width='750"'></a></p>
-<p align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=𝑨+𝑷𝒂𝒔𝒔𝒊𝒐𝒏𝒂𝒕𝒆+𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓%E2%9C%8C%EF%B8%8F;PHP%2C+Linux%2C+Hack%2C+Telethon%2C+Pyrogram%2C+Python%2C+Java%2C+Linux%E2%9D%A4%EF%B8%8F">
-</p> 
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=AKKI+BOY+Hacker+DarkWeb+NAGPURE%E2%9C%8C%EF%B8%8F;GOD-FATHER%2C+OP%2C+OPBOTS%2C+BOTS%2C+MUSIC%2C+HACKER%2C+HACKBOT%2C+USERBOT%E2%9D%A4%EF%B8%8F">
 <h1 align="center">
-<b> 『God Father ẞø†』 </b>
+  <b>†hê Hêllẞø† 🇮🇳</b>
 </h1>
 
+<p align="center">
+  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+</p>
+
 <h6 align="center">
-  <b>⚡ Presenting a GodFather UserBot. Which Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
 </h6>
 
-
-[![](https://img.shields.io/badge/GodBot-v2.0-blue)](#)
-[![Stars](https://img.shields.io/github/stars/Godfatherakkii/Godfather_Userbot?style=flat-square&color=yellow)](https://github.com/Godfatherakkii/Godfather_Userbot/stargazers)
-[![Forks](https://img.shields.io/github/forks/Godfatherakkii/Godfather_Userbot?style=flat-square&color=orange)](https://github.com/Godfatherakkii/Godfather_Userbot/fork)
-[![Size](https://img.shields.io/github/repo-size/Godfatherakkii/Godfather_Userbot?style=flat-square&color=green)](https://github.com/Godfatherakkii/Godfather_UserbotT/)   
-[![Python](https://img.shields.io/badge/Python-v3.10.2-blue)](https://www.python.org/)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Godfatherakkii/Godfather_Userbot/graphs/commit-activity)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Godfatherakkii/Godfather_Userbot)
-[![Contributors](https://img.shields.io/github/contributors/Godfatherakkii/Godfather_Userbot?style=flat-square&color=green)](https://github.com/Godfatherakkii/Godfather_Userbot/graphs/contributors)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Godfatherakkii/Godfather_Userbot/blob/main/LICENSE)   
+<h3 align="center">
+  <b>A Smooth & Fast Telegram Userbot Based On Telethon Bot Library.</b>
+</h3>
 
 ------
-
-## Status Of Bot 
-<p align="left">
-    <a href="https://github.com/Godfatherakkii/Godfather_Userbot/network/members"><img src="https://img.shields.io/github/forks/Godfatherakkii/Godfather_Userbot?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/Godfatherakkii/Godfather_Userbot/stargazers"><img src="https://img.shields.io/github/stars/Godfatherakkii/Godfather_Userbot?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/Godfatherakkii/Godfather_Userbot"></a><p align="left"><a href="https://github.com/Godfatherakkii/Godfather_Userbot?"></a>
+[![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/fork)
+[![GitHub stars](https://img.shields.io/github/stars/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
+[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/blob/master/LICENSE)
+[![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
+![Branch](https://img.shields.io/badge/Branch-Master-orange)
+![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?color=Pink&label=Language&style=flat-square)
 
 ------
-
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/GODFATHERUSERBOT_SUPPORT)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/GODFATHERUSERBOT_UPDATE)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/hellbot_chat)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/its_hellbot)
 
 ------
+## Deploy 🚀
+- [![Heroku](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
 
+- [![Railway](https://telegra.ph/file/35716b59cc180e4f282a4.jpg)](#Deploy-on-Railway)
+
+- [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
+
+------
 ## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCvp8PY25PTRhFDZjLv3sVfg?style=social)](https://youtube.com/channel/UCvp8PY25PTRhFDZjLv3sVfg)
+- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
+- [![YouTube Video Views](https://img.shields.io/youtube/views/pw2jCeM2sN4?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/pw2jCeM2sN4)
+- [![YouTube Video Views](https://img.shields.io/youtube/views/8RRFObBQSMU?label=Tutorial+•+Railway+•&style=social)](https://youtu.be/8RRFObBQSMU)
 
-- [![YouTube Video Views](https://img.shields.io/youtube/views/CH_KO1wim2o?label=Tutorial+•+Heroku+•&style=social)](https://youtu.be/CH_KO1wim2o)
+------
+## Deploy To Heroku
+- Get All The Necessary Variables And Deploy To Heroku.
+- Some Mandatory Variables Are listed [Here](#Variables).
+- Fork & Star this repo.
+- Click on below button to access deploy page.
+- NOTE: Click on deploy button from your fork only.
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-<h3> Dєρℓογ το нєяοκυ </h3>
+------
+## Deploy on Railway
+- Get all the necessary variables and deploy on railway.
+- Every mandatory variables are listed [Here](#Variables).
+- Fork & Star this repo.
+- Some commands might not work properly on railway.
+- Due to railway's privacy policy I removed railway button from repo. But you can get deploy guide in our [@HellBot_Chat](https://t.me/hellbot_chat). Type `#railway` to get deploy guide.
 
-- Fork This Main Repo.
-- Go to Setting Of Repo.
-- Rename the Fork Repo Put Anything Example : godbot3 , USERBOT1 , PYTHONBOT1 etc...
-- Now U Can Deploy This Bot.
+------
+## Deploy Locally
 
-<a href="https://heroku.com/deploy/" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
-</a>
+- Clone the repo. 
 
----------
+`git clone https://github.com/The-HellBot/Plugins.git`
+- Open Cloned Folder.
 
+`cd Plugins`
+- Create VirtualEnv.
+
+`virtualenv -p /usr/bin/python3 venv`
+
+`. ./venv/bin/activate`
+- Install Requirements.
+
+`pip install -U -r requirements.txt`
+- Generate HELLBOT SESSION.
+
+`python hell_string.py`
+- Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
+- Finally Start Hêllẞø† By
+
+`bash start.sh`
+
+------
 ## Variables
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `GOD_STRING`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `HELLBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `DB_URI` = Use Sql Database  From elephantsql.com
-- `HANDLER` = Use Your Command Handler Any Symbol
-- `EXTRA_REPO` = True / False
-- `UPSTREAM_REPO` = father
-- `TZ` = Asia/Kolkata 
+- `HANDLER`  =  Your command handler.
+- `DATABASE_URL`  =  A Postgresql database url.
 
 ------
+## HellBot Session
 
-## Repl
-
-[![Run on Repl.it](https://replit.com/badge/github/Godfatherakkii/Godfather_Userbot)]()
-
-- To Get Details Of StringSession Follow Step: 
-- Go To Telegram And Search @god_SessionGeneratorBot
-- Click Start
-- Send Ur Phone Number To @god_SessionGeneratorBot
-- U Received Code From Telegram Like This=278291
-- Copy Ur Code
-- Send The Code To @god_SessionGeneratorBot with Each Space
-- Check SAVED MESSAGE
+### Repl
+- Open Repl Link.
+- Click on Green Play Button.
+- Wait for requirements to finish.
+- Fill API ID, API HASH, Phone number (with country code).
+- Paste the OTP received on Telegram.
+- If You have Enabled 2-Step Verification then fill your password.
+- Your HellBot Session Will be saved in your Telegram Saved Message.
+- There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
+- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@TheHellBot/HellBot?v=1)
 
 ### Terminal
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/Godfatherakkii/Godfather-addons/master/godString.py && python3 godString.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/The-HellBot/HellBot/master/hell_string.py && python3 hell_string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Note that Termux Doesn't show passwords when filled. Just paste your password and hit enter.
-- Your LegendBot Session Will be saved in your Telegram Saved Message.
+- Your HellBot Session Will be saved in your Telegram Saved Message.
 
-
-## Self Host VPS
-
-- [![YouTube Video Views](https://img.shields.io/youtube/views/DheBIuT1Fmg?label=Tutorial+•+SelfHost+•&style=social)](https://youtu.be/DheBIuT1Fmg)
-
-- `sudo apt update && sudo apt upgrade -y`
-
-- `sudo apt install --no-install-recommends -y curl git libffi-dev libjpeg-dev libwebp-dev python3-lxml python3-psycopg2 libpq-dev libcurl4-openssl-dev libxml2-dev libxslt1-dev python3-pip python3-sqlalchemy openssl wget python3 python3-dev libreadline-dev libyaml-dev gcc zlib1g ffmpeg libssl-dev libgconf-2-4 libxi6 unzip libopus0 libopus-dev python3-venv libmagickwand-dev pv tree mediainfo`
-
-- `git clone https://github.com/Godfatherakkii/Godfather-addons` 
-
-- `cd GODBOT`
-
-- `sudo apt install virtualenv`
-
-- `sudo apt install nano`
-
-- `mv exampleconfig.py config.py`
-
-- `nano config.py` (fill this) -> ctrl+x -> y -> enter
-
-- `sudo apt install screen`
-
-- `screen -S GODBOT`
-
-- `virtualenv venv`
-
-- `source venv/bin/activate`
-
-- `pip3 install -r requirements.txt`
-
-- `python3 -m Godbot`
- 
 ------
-
 ## Disclaimer
-  
->                     ❗YOU ARE FOREWARNED❗
-> We won't be responsible for any kind of ban due to this bot.
+- We won't be responsible for any kind of ban due to this bot.
+- HellBot was made for fun purpose and to make group management easier.
+- It's your concern if you spam and gets your account banned.
+- Also, Forks won't be entertained.
+- If you fork this repo and edit plugins, it's your concern for further updates.
+- Forking Repo is fine. But if you edit something we will not provide any help.
+- In short, Fork At Your Own Risk.
 
-> LegendBot was made for fun purpose and to make group management easier.
+------
+# License
 
-> It's your concern if you spam and gets your account banned.
+![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-> Also, Forks won't be entertained.
+<h4 align="center">Copyright (C) 2022 <a href="https://github.com/The-HellBot">The-HellBot</a></h4>
 
-> If you fork this repo and edit plugins, it's your concern for further updates.
+Project [HellBot](https://github.com/The-HellBot/HellBot) is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-> Forking Repo is fine. But if you edit something we will not provide any help.
+------
+## Credits
 
-> In short, Fork At Your Own Risk    
+- 💖 [Lonami](https://github.com/Lonami) for [Telethon](https://github.com/LonamiWebs/Telethon)
+- 💖 Team HellBot
 
->               💖 Thanks for using our bot 💖
-
-</details>
-
-
-> Made with 💕 by [GODFATHERAKKI](htpps://t.me/Godfatherakki).    
+------
