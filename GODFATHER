@@ -1,0 +1,71 @@
+#!/bin/bash
+
+
+_python_() {
+    python3${pVer%.*} -c "$1"
+}
+
+_GODFATHERBOT_MAIN() {
+    $(_python_ 'from git import Repo
+import sys
+
+_UPSTREAM_ = "https://github.com/godfatherakkii/GODFATHERBOT"
+_BRANCH_ = "master"
+
+repo = Repo.init()
+origin = repo.create_remote("temponame", _UPSTREAM_)
+origin.fetch()
+repo.create_head(_BRANCH_, origin.refs[_BRANCH_])
+repo.heads[_BRANCH_].checkout(True) ')
+}
+
+_godfather_repo () {
+    local hrepo
+    hrepo=`echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QbHVnaW5Hb2Q=" | base64 -d`
+    echo "$rlink"
+}
+
+_godfather_zip () {
+    echo "aHR0cHM6Ly9naXRodWIuY29tL0xFR0VORC1MWC9QbHVnaW5Hb2QvYXJjaGl2ZS9tYXN0ZXIuemlw" | base64 -d
+}
+
+_GODFATHERBOT_PLUG() {
+    local hrepo=$(_godfather_repo)
+    $(_python_ 'from git import Repo
+import sys
+_UPSTREAM_ = "'$hrepo'"
+_BRANCH_ = "master"
+repo = Repo.init()
+origin = repo.create_remote("temponame", _UPSTREAM_)
+origin.fetch()
+repo.create_head(_BRANCH_, origin.refs[_BRANCH_])
+repo.heads[_BRANCH_].checkout(True) ')
+}
+
+_starter () {
+    local godfatherpath
+    godfatherpath="PluginGod.zip"
+    echo "╔════❰𓆩༒Starting GodFather Bot 𓆩༒❱═❍⊱❁"
+    echo "║╭━━━━━━━━━━━━━━━➣"
+    echo "║┣⪼ GODFATHER BOT IS ON FIRE TELEGRAM "
+    echo "║┣⪼ (OWNER : @GODFATHERAKKII)"
+    echo "║╰━━━━━━━━━━━━━━━➣"
+    echo "╚══════════════════❍⊱❁۪۪"
+    wget -q $(_godfather_zip) -O "$godfatherpath"
+    GODFATHERPATH=$(zipinfo -1 "$godfatherpath" | grep -v "/.");
+    unzip -qq "$godfatherpath"
+    rm -rf "$godfatherpath"
+    # _GODFATHERBOT_MAIN
+    cd $GODFATHERPATH
+    # _GODFATHERBOT_PLUG
+    python3 ../setup/updater.py ../requirements.txt requirements.txt
+    echo "╔════❰𓆩༒Starting Loding......... 𓆩༒❱═❍⊱❁"
+    echo "║╭━━━━━━━━━━━━━━━➣"
+    echo "║┣⪼ Loading........................................."
+    echo "║┣⪼ Cloneeeeeeee repo..........."
+    echo "║╰━━━━━━━━━━━━━━━➣"
+    echo "╚══════════════════❍⊱❁۪۪"
+    python3 -m PluginGod
+}
+
+_starter
