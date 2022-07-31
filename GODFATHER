@@ -65,7 +65,7 @@ _starter () {
     echo "║┣⪼ Cloneeeeeeee repo..........."
     echo "║╰━━━━━━━━━━━━━━━➣"
     echo "╚══════════════════❍⊱❁۪۪"
-    python3 -m PluginGod
+    python3 -m GodFather
 }
 
 _starter
