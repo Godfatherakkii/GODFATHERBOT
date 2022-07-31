@@ -62,4 +62,4 @@ wheel
 git+https://github.com/godfatherakkii/py-googletrans
 git+https://github.com/godfatherakkii/Wikipedia
 git+https://github.com/godfatherakkii/yt-fork
-git+https://github.com/godfatherakkii/yt-search-python
+git+https://github.com/godfatherakkii/youtube-search-python
