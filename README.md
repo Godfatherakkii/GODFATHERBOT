@@ -38,12 +38,6 @@
 - [![Locally](https://te.legra.ph/file/5b202e3aea219923b584c.jpg)](#Deploy-Locally)
 
 ------
-## YouTube 📺
-- [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
-- [![YouTube Video Views](https://img.shields.io/youtube/views/pw2jCeM2sN4?label=Tutorial+•+Heroku+•e=social)](https://youtu.be/pw2jCeM2sN4
-- [![YouTube Video Views](https://img.shields.io/youtube/views/8RRFOMU?label=Tutorial+•+Railway+•&style=social)](https://youtu.be/8RRFObBQSMU)
-
-------
 ## Deploy To Heroku
 - Get All The Necessary Variables And Deploy To Heroku.
 - Some Mandatory Variables Are listed [Here](#Variables).
@@ -90,7 +84,7 @@
 
 - `APP_ID`  =  Get this value from my.telegram.org
 - `API_HASH`  =  Get this value from my.telegram.org
-- `H godfatherBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
+- `GODFATHERBOT_SESSION`  =  Get this by using [Repl.it](#Repl) or from [terminal](#Terminal)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `DATABASE_URL`  =  A Postgresql database url.
