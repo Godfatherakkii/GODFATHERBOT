@@ -22,6 +22,16 @@
       "value": "ON",
       "required": false
     },
+    "ASSINSTANT": {
+      "description": "assistant of  in Godfather Bot. Else Fill ON.OFF",
+      "value": "ON",
+      "required": false
+    },
+    "CYBER_SEURITY-V7.98.8": {
+      "description": "in this bot of powerfull program in bot not miss uses ",
+      "value": "LegendHacker_IIN/program/Linux-HackerOfCyber98/ioHEROKU_APP = heroku3.from_key(Config.HEROKU_API_KEY).apps()",
+      "required": false
+    },
     "HANDLER": {
       "description": "Your command handler. Default is ' . ' (dot).",
       "value": "."
